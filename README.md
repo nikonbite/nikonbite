@@ -2,6 +2,5 @@
 
 ![banner](https://media.giphy.com/media/dyjrpqaUVqCELGuQVr/giphy.gif)
 _____
-- 🔭 Developer (Java), Designer
-- 🌱 I’m currently learning Python
+- 🌱 Java Developer, Designer
 _____
